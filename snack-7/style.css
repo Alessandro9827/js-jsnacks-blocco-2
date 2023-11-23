@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    padding-top: 2rem;
+    background-color: rgb(14, 189, 189);
+    color: rgb(231, 227, 227);
+}
+
+.buttons,
+.seconds{
+    padding-top: 1rem;
+}
+
+button{
+    width: 80px;
+}
